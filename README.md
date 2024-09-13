@@ -4,7 +4,6 @@ Repository
 Overview
 
 Welcome to the AZ-104 Studies and Learning Projects Repository! This repository contains various hands-on projects and study resources aimed at preparing for the Microsoft Azure Administrator Associate certification (AZ-104). The projects are designed to provide practical experience in managing Azure resources, configuring virtual networks, implementing security measures, and deploying cloud services.
-Purpose
 
 The purpose of this repository is to:
 
