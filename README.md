@@ -22,7 +22,7 @@ This repository includes a series of projects, each focusing on different aspect
         Deploying and managing Virtual Network Gateways and VPN connections.
         Implementing secure remote access using Azure Bastion.
 
-2. Azure Resource Management and Automation
+2. Azure Resource Management and Automation (Coming soon)
 
     Description: Focuses on deploying and managing Azure resources using ARM templates, Azure CLI, and PowerShell.
     Key Learning Objectives:
@@ -30,7 +30,7 @@ This repository includes a series of projects, each focusing on different aspect
         Automating resource management tasks using Azure CLI and PowerShell.
         Managing resource groups and implementing role-based access control (RBAC).
 
-3. Azure Identity and Governance
+3. Azure Identity and Governance (Coming soon)
 
     Description: Explores the implementation of Azure AD, identity management, and governance best practices.
     Key Learning Objectives:
@@ -38,7 +38,7 @@ This repository includes a series of projects, each focusing on different aspect
         Implementing Azure policies, blueprints, and resource locks.
         Managing Azure subscriptions, budgets, and cost management.
 
-4. Azure Storage and Data Solutions
+4. Azure Storage and Data Solutions (Coming soon)
 
     Description: Involves setting up and managing Azure storage accounts, data solutions, and backup configurations.
     Key Learning Objectives:
@@ -46,7 +46,7 @@ This repository includes a series of projects, each focusing on different aspect
         Implementing Azure Backup and Recovery Services.
         Managing access and security for Azure storage solutions.
 
-5. Azure Virtual Machines and Compute Management
+5. Azure Virtual Machines and Compute Management (Coming soon)
 
     Description: Covers the deployment, configuration, and management of Azure Virtual Machines and other compute resources.
     Key Learning Objectives:
